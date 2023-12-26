@@ -19,10 +19,11 @@ set cmdheight=1
 
 " performance buffs
 set lazyredraw
+set nottyfast
 
-" case-sensitivity in pattern matching
+" case-(in)sensitivity in pattern matching
 set ignorecase
-set smartcase
+set smartcase  " case-sensitivity enabled for capital letters
 
 " search settings
 set hlsearch  " highlighting the search
