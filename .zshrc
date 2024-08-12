@@ -14,7 +14,7 @@ autoload -z edit-command-line
 zle -N edit-command-line
 bindkey "^X^E" edit-command-line
 
-PROMPT='%F{green}%n@%m%f:%F{blue}%~%f$ '
+PROMPT='%B%F{green}%n@%m%f:%F{blue}%~%f%b$ '
 
 alias ll='ls -lah'
 alias grep='grep --color=auto'
