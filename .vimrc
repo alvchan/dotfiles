@@ -36,4 +36,4 @@ set smartcase
 set noerrorbells
 set novisualbell
 set t_vb=
-
+set belloff=all
