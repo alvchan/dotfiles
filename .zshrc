@@ -5,6 +5,9 @@ SAVEHIST=1000
 export EDITOR=vim
 export VISUAL=vim
 
+export CLICOLOR=1
+alias ls='ls --color=auto'
+
 bindkey -e
 
 setopt nomatch
