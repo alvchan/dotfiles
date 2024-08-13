@@ -22,4 +22,4 @@ PROMPT='%B%F{green}%n@%m%f:%F{blue}%~%f%b$ '
 alias ll='ls -lah'
 alias grep='grep --color=auto'
 alias zrc='$EDITOR $HOME/.zshrc'
-
+alias vrc='$EDITOR $HOME/.vimrc'
