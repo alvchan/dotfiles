@@ -11,6 +11,7 @@ set formatoptions=tcqrn1
 set tabstop=4
 set shiftwidth=4
 set noshiftround
+set textwidth=80
 
 set scrolloff=5
 set backspace=indent,eol,start
