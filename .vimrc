@@ -8,6 +8,7 @@ filetype plugin indent on
 set wrap
 
 set formatoptions=tcqrn1
+set expandtab
 set tabstop=4
 set shiftwidth=4
 set noshiftround
