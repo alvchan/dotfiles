@@ -40,3 +40,6 @@ set noerrorbells
 set novisualbell
 set t_vb=
 set belloff=all
+
+nnoremap <S-Tab> <<
+inoremap <S-Tab> <C-d>
