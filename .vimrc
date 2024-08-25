@@ -10,6 +10,7 @@ set wrap
 set formatoptions=tcqrn1
 set noexpandtab
 set tabstop=3
+set softtabstop=0
 set shiftwidth=3
 set noshiftround
 set textwidth=80
