@@ -28,6 +28,7 @@ set showcmd
 set matchpairs+=<:>
 
 set number
+set relativenumber
 
 set encoding=utf-8
 
