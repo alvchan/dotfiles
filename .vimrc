@@ -43,3 +43,4 @@ set t_vb=
 set belloff=all
 
 inoremap <S-Tab> <C-d>
+nnoremap <nowait><silent> <C-C> :noh<CR>
